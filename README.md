@@ -1,5 +1,3 @@
-
-
 # Experiment-6---Heart-attack-prediction-using-MLP
 
 ## Aim:
