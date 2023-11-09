@@ -1,6 +1,10 @@
+
+
 # Experiment-6---Heart-attack-prediction-using-MLP
+
 ## Aim:
       To construct a  Multi-Layer Perceptron to predict heart attack using Python
+
 ## Algorithm:
 Step 1:Import the required libraries: numpy, pandas, MLPClassifier, train_test_split, StandardScaler, accuracy_score, and matplotlib.pyplot.<br>
 Step 2:Load the heart disease dataset from a file using pd.read_csv().<br>
@@ -13,6 +17,7 @@ Step 8:Make predictions on the testing set using mlp.predict(X_test).<br>
 Step 9:Evaluate the model's accuracy by comparing the predicted labels (y_pred) with the actual labels (y_test) using accuracy_score().<br>
 Step 10:Print the accuracy of the model.<br>
 Step 11:Plot the error convergence during training using plt.plot() and plt.show().<br>
+
 
 ## Program:
  ```
@@ -43,8 +48,10 @@ plt.show()
 ```
 
 
+
 ## Output:
 ![241658783-941ce1a9-e8da-4b63-9573-5e694e82afb0](https://github.com/Bhuvaneshwari-2003/Experiment-6---Heart-attack-prediction-using-MLP/assets/94828604/5e9a4922-ee33-472a-b0a0-bc95342088b8)
+
 
 
 ## Result:
